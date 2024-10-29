@@ -1,2 +1,2 @@
-Main === Decorator
+Main === Decorator/
 Main2 ===  Adapter
